@@ -14,7 +14,7 @@
 <div align="center">
   <h3>👤 About Me</h3>
   <p>
-    🎓 5th semester <b>Systems Engineering</b> student at Universidad de Antioquia.<br>
+    🎓 <b>Systems Engineering</b> student at Universidad de Antioquia.<br>
     💻 <b>Full-Stack Developer</b> working mainly in the JavaScript ecosystem.<br>
     📊 Exploring <b>Data Science</b> on the side — Python, stats & beyond.<br>
     🏋️ Gym rat. ⚽ Real Madrid supporter. 🎮 Gamer at heart.<br>
