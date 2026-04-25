@@ -41,9 +41,13 @@
 <br>
 
 <div align="center">
-<h3>📊 GitHub Stats</h3>
-![alan-chala's Stats](https://github-readme-stats.vercel.app/api?username=alan-chala&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![alan-chala's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alan-chala&theme=dark&hide_border=true)
-![alan-chala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-chala&theme=dark&show_icons=true&hide_border=true&layout=compact)
-<img src="images/banner-2.gif" width="300" alt="Guts vs Griffith" />
+  <h3>📊 GitHub Stats</h3>
+  
+  ![alan-chala's Stats](https://github-readme-stats.vercel.app/api?username=alan-chala&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  
+  ![alan-chala's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alan-chala&theme=dark&hide_border=true)
+  
+  ![alan-chala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-chala&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  
+  <img src="images/banner-2.gif" width="300" alt="Guts vs Griffith" />
 </div>
